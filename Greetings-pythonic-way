@@ -1,0 +1,4 @@
+list = ["Hello World","How are you","Hope yopu are alright"]
+
+for x in  list:
+  print(x)
